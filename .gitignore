@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+.expo/
+# Credenciales (NO versionar)
+arthome-cb152-firebase-adminsdk-fbsvc-5f99688e4f.json
