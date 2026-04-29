@@ -4,5 +4,6 @@ dist/
 *.log
 .DS_Store
 .expo/
+.scannerwork/
 # Credenciales (NO versionar)
 arthome-cb152-firebase-adminsdk-fbsvc-5f99688e4f.json
