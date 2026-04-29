@@ -1,0 +1,6 @@
+projectKey=ArtHomeBackend
+serverUrl=http://localhost:9000
+serverVersion=26.4.0.121862
+dashboardUrl=http://localhost:9000/dashboard?id=ArtHomeBackend
+ceTaskId=ff6e6968-c746-4165-8045-d166b7c6d2b4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ff6e6968-c746-4165-8045-d166b7c6d2b4
